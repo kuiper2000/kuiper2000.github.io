@@ -2,12 +2,12 @@
 featured = "true"
 abstract = ""
 authors = ["Kai-Chih Tseng", "Eric Maloney","Elizabeth Barnes"]
-date = "2019"
+date = "2020"
 image = ""
 image_preview = ""
 math = false
 publication = "Journal of Climate"
-title = "(2019) The consistency of MJO teleconnection patterns on interannual timescales (in press)"
+title = "The consistency of MJO teleconnection patterns on interannual timescales (in press)"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
