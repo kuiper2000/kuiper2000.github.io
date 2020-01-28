@@ -12,8 +12,8 @@ day_night = true
 font = "default"
 
 # Font size
-#font_size = "10"
-#font_size_small = "10"
+font_size = "13"
+font_size_small = "10"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
