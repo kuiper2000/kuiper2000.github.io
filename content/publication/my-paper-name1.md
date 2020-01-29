@@ -2,7 +2,7 @@
 featured = "true"
 abstract = ""
 authors = ["Kai-Chih Tseng", "Chung-Hsiung Sui","Tim Li"]
-date = "2015"
+date = "2015-01"
 image = ""
 image_preview = ""
 math = false
