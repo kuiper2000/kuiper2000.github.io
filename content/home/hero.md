@@ -59,5 +59,5 @@ hero_media = ""
 
 
 
-"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”
-― John von Neumann
+"The purpose of computation is insight, not numbers.”
+― Richard Hamming
