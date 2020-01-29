@@ -2,7 +2,7 @@
 featured = "true"
 abstract = ""
 authors = ["Kai-Chih Tseng", "Eric Maloney","Elizabeth Barnes"]
-date = "2020"
+date = "2020-01-01"
 image = ""
 image_preview = ""
 math = false
