@@ -60,10 +60,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "mailto:kaichiht@princeton.edu"  # For a direct email link, use "mailto:kaichiht@princeton.edu".
 
-#[[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/GeorgeCushen"
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/kaichihtseng"
 
 [[social]]
   icon = "google-scholar"
@@ -80,7 +80,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "https://www.dropbox.com/s/i7y2iaqqd3i0zv7/cv.pdf?dl=0"
+   link = "https://www.dropbox.com/s/mxxyegnbqxingxl/cv.pdf?dl=0"
 
 +++
 
