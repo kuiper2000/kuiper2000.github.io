@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  3 MAY 2020 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  29 JUN 2020 10:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,7 +368,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 53.
+(hyperref)                removing `\@ifnextchar' on input line 54.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -426,19 +426,19 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
 Here is how much of TeX's memory you used:
  6090 strings out of 493014
  90944 string characters out of 6133351
- 190818 words of memory out of 5000000
+ 191818 words of memory out of 5000000
  9557 multiletter control sequences out of 15000+600000
  6195 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,45p,416b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,11n,45p,416b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (2 pages, 71229 bytes).
+Output written on cv.pdf (2 pages, 71316 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  32 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
