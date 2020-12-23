@@ -2143,7 +2143,8 @@ input, select, textarea {
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 200%;
+				margin: 0 0 1em -3.5em;
 			}
 
 /* List */
@@ -2640,7 +2641,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 12.25em;
+			width: 6.25em;
 		}
 
 /* Footer */
