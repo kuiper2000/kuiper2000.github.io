@@ -40,12 +40,12 @@ git add .
 git commit -m "Initial commit"
 git push -u origin master --force
 
-cd ../
-git remote rm origin
-git init
-git fetch origin master
-git merge origin master
-git remote add origin https://github.com/kuiper2000/website-hugo.git
-git add .
-git commit -m "Initial commit"
-git push -u origin master --force
+#cd ../
+#git remote rm origin
+#git init
+#git fetch origin master
+#git merge origin master
+#git remote add origin https://github.com/kuiper2000/website-hugo.git
+#git add .
+#git commit -m "Initial commit"
+#git push -u origin master --force
