@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  18 MAY 2021 22:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  22 JUN 2021 23:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -387,15 +387,16 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 73.
+(hyperref)                removing `\@ifnextchar' on input line 74.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -404,13 +405,13 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Overfull \hbox (284.52756pt too wide) in paragraph at lines 74--95
+Overfull \hbox (284.52756pt too wide) in paragraph at lines 75--96
 [] 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 100.
+(hyperref)                removing `\@ifnextchar' on input line 101.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -419,7 +420,7 @@ Missing character: There is no ï in font cmr10!
 Missing character: There is no ¼ in font cmr10!
 Missing character: There is no š in font cmr10!
 
-Overfull \hbox (1.27048pt too wide) in paragraph at lines 109--110
+Overfull \hbox (1.27048pt too wide) in paragraph at lines 110--111
 []$[]$\OT1/cmr/m/n/10 ., and C.-H. Sui, 2014A Di-ag-no-sis of Bound-ary Layer M
 oist-en-ing Pro-cesses for Madden-
  []
@@ -427,40 +428,40 @@ oist-en-ing Pro-cesses for Madden-
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 113.
+(hyperref)                removing `\@ifnextchar' on input line 114.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 124.
+(hyperref)                removing `\@ifnextchar' on input line 125.
 
 
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 132.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 132.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 668B4D8C01F0A36653BD24FDE7B995E5;489.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
  ) 
 Here is how much of TeX's memory you used:
- 6102 strings out of 493014
- 91043 string characters out of 6133351
+ 6103 strings out of 493014
+ 91050 string characters out of 6133351
  191818 words of memory out of 5000000
  9559 multiletter control sequences out of 15000+600000
  6195 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,45p,416b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,11n,45p,416b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (3 pages, 76094 bytes).
+Output written on cv.pdf (3 pages, 76318 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
